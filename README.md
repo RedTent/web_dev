@@ -1,2 +1,1 @@
-# web_dev
-Coursera Course - HTML, CSS, and Javascript for Web Developers
+# Coursera Course - HTML, CSS, and Javascript for Web Developers
