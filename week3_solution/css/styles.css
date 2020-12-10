@@ -12,6 +12,6 @@
   background-color: #e6e6e6;
 }
 
-nav-item:hover, nav-item:active{
+#my-menu a:hover{
   background-color: #e6e600;
 }
