@@ -1,3 +1,17 @@
 .navbar .container{
   margin-left: 10px;
 }
+
+#my-menu{
+  text-align: center;
+  clear: both;
+  background-color: #ffffcc
+}
+
+#long-text{
+  background-color: #e6e6e6;
+}
+
+nav-item:hover, nav-item:active{
+  background-color: #e6e600;
+}
